@@ -1,0 +1,23 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appIDs": [
+                    "xxx.com.demo"
+                    ],
+                "components": [
+                    {
+                        "/": "*",
+                        "comment": "唤起App的通用入口"
+                    }
+                ]
+            }
+        ]
+    },
+    "webcredentials": {
+        "apps": [
+            "xxx.com.demo"
+        ]
+    }
+}
